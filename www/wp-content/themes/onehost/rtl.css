@@ -1,0 +1,234 @@
+/*
+Theme Name: OneHost
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+.image-box.image-left img {
+  float: right;
+}
+.image-box.image-left .image-box-title,
+.image-box.image-left .image-box-content {
+  padding-right: 100px;
+  padding-left: 0;
+  text-align: right;
+}
+.image-box.image-right img {
+  float: left;
+}
+.image-box.image-right .image-box-title,
+.image-box.image-right .image-box-content {
+  padding-left: 100px;
+  padding-right: 0;
+  text-align: left;
+}
+.icon-box.icon-left .b-icon {
+  float: right;
+}
+.icon-box.icon-left .box-title,
+.icon-box.icon-left .box-content {
+  padding-left: 0;
+  padding-right: 48px;
+  text-align: right;
+}
+.icon-box.icon-right .b-icon {
+  float: left;
+}
+.icon-box.icon-right .box-title,
+.icon-box.icon-right .box-content {
+  padding-right: 0;
+  padding-left: 48px;
+  text-align: left;
+}
+.icon-box.border-circle.icon-left .box-title,
+.icon-box.border-circle.icon-left .box-content {
+  padding-right: 75px;
+  padding-left: 0;
+}
+.icon-box.border-circle.icon-right .box-title,
+.icon-box.border-circle.icon-right .box-content {
+  padding-right: 0;
+  padding-left: 75px;
+}
+.testimonial-list.testimonial-full .testi-author .testi-pic {
+  right: 0;
+  left: inherit;
+}
+.testimonial-list.testimonial-full .testi-author .testi-company {
+  padding-right: 140px;
+  padding-left: 0;
+}
+.testimonial-list.testimonial-full.row .testi-author .testi-pic {
+  left: inherit;
+  right: 15px;
+}
+.testimonial-list.testimonial-full .testi-star {
+  padding-right: 140px;
+  padding-left: 0;
+}
+.testimonial-list.testimonial-full .testi-star i {
+  margin-left: 10px;
+  margin-right: 0;
+}
+.testimonial-list.testimonial-full .testi-desc {
+  padding-left: 0;
+  padding-right: 140px;
+}
+.wpcf7-form .wpcf7-form-control {
+  text-align: right;
+}
+.wpcf7-form .wpcf7-form-control.wpcf7-submit {
+  float: right;
+}
+.primary-nav .nav li.menu-item-has-children a:after {
+  margin-right: 5px;
+  margin-left: 0;
+}
+.nav li ul {
+  right: 0;
+  left: inherit;
+}
+.nav li ul li a {
+  text-align: left;
+}
+.owl-carousel .owl-item {
+  float: right;
+}
+.search-form:before,
+.search-form .search-submit {
+  left: 0;
+  right: inherit;
+}
+.entry-footer {
+  overflow: hidden;
+}
+.entry-footer > span {
+  float: right;
+  margin-right: 0;
+  margin-left: 25px;
+}
+.entry-footer > span .fa {
+  float: right;
+}
+.entry-footer > span i {
+  margin-left: 5px;
+  margin-right: 0;
+  margin-top: 2px;
+}
+.entry-footer > span > a,
+.entry-footer > span .entry-tags {
+  float: left;
+}
+.entry-footer > span .entry-tags {
+  margin-right: 0;
+}
+.content-area .post-navigation {
+  float: left;
+}
+.content-area .post-navigation .nav-previous {
+  float: left;
+}
+.comments-area .comment-list .comment-author {
+  float: right;
+}
+.entry-summary,
+.entry-content,
+.entry-header,
+.comments-area {
+  padding-left: 0;
+  padding-right: 80px;
+}
+.hide-singular-title .entry-summary,
+.hide-singular-title .entry-content,
+.hide-singular-title .comments-area {
+  padding-right: 0;
+}
+.page .entry-summary,
+.search .entry-summary,
+.portfolio_project .entry-summary,
+.page .entry-content,
+.search .entry-content,
+.portfolio_project .entry-content,
+.page .entry-header,
+.search .entry-header,
+.portfolio_project .entry-header,
+.page .comments-area,
+.search .comments-area,
+.portfolio_project .comments-area {
+  padding-right: 0;
+}
+.entry-footer {
+  margin-left: 0;
+  margin-right: 80px;
+}
+.entry-header .entry-date {
+  right: 0;
+  left: inherit;
+  border-left: 1px solid #888;
+  border-right: 0;
+}
+.numeric-navigation {
+  text-align: center;
+}
+.numeric-navigation *:first-child {
+  -webkit-border-radius: 0;
+          border-radius: 0;
+}
+.numeric-navigation *:last-child {
+  -webkit-border-radius: 0;
+          border-radius: 0;
+}
+.comments-area .comment-list {
+  float: none;
+}
+.comments-area .comment-list .comment-meta .comment-reply-link,
+.comments-area .comment-list .comment-meta .comment-edit-link {
+  float: left;
+  margin-right: 20px;
+}
+.comments-area .comment-list .comment-author {
+  padding-right: 0;
+  padding-left: 15px;
+}
+.comments-area .comment-list .comment-meta {
+  padding-left: 0;
+  padding-right: 80px;
+}
+.comments-area .comment-list .comment .children article {
+  padding-left: 0;
+  padding-right: 60px;
+}
+.comments-area .comment-list .comment .children .children article {
+  padding-left: 0;
+  padding-right: 120px;
+}
+.comments-area .comment-list .comment .children .children .children article {
+  padding-left: 0;
+  padding-right: 180px;
+}
+.testimonial-list.testimonial-medium .testi-author .testi-pic {
+  float: right;
+  margin-right: 0;
+  margin-left: 15px;
+}
+#bridge {
+  float: right;
+}
+.entry-content #bridge table.frame tbody > tr > td,
+.entry-content #bridge table.frame tbody > tr > tr {
+  text-align: right;
+}
+#bridge #order-modern .configtable td.fieldarea {
+  text-align: right;
+}
+.portfolio-description .portfolio-item span {
+  width: 100px;
+}

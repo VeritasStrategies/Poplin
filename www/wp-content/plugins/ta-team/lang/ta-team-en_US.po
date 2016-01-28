@@ -1,0 +1,619 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TA Team Management v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-15 17:41:11+0000\n"
+"Last-Translator: ThemeAlien <support@themealien.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/class-showcase.php:47
+#@ ta-team
+msgctxt "Post Type General Name"
+msgid "Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:48
+#@ ta-team
+msgctxt "Post Type Singular Name"
+msgid "Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:49
+#: inc/class-showcase.php:62
+#@ ta-team
+msgid "Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:50
+#@ ta-team
+msgid "Parent Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:51
+#@ ta-team
+msgid "Showcases"
+msgstr ""
+
+#: inc/class-showcase.php:52
+#@ ta-team
+msgid "View Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:53
+#@ ta-team
+msgid "Add New Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:54
+#: inc/class-team-member.php:58
+#@ ta-team
+msgid "Add New"
+msgstr ""
+
+#: inc/class-showcase.php:55
+#@ ta-team
+msgid "Edit Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:56
+#@ ta-team
+msgid "Update Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:57
+#@ ta-team
+msgid "Search Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:58
+#: inc/class-team-member.php:62
+#@ ta-team
+msgid "Not found"
+msgstr ""
+
+#: inc/class-showcase.php:59
+#: inc/class-team-member.php:63
+#@ ta-team
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/class-showcase.php:63
+#@ ta-team
+msgid "Create showcase shortcode"
+msgstr ""
+
+#: inc/class-showcase.php:111
+#: inc/class-showcase.php:141
+#@ ta-team
+msgid "Shortcode"
+msgstr ""
+
+#: inc/class-showcase.php:140
+#@ ta-team
+msgid "Showcase Options"
+msgstr ""
+
+#: inc/class-showcase.php:180
+#@ ta-team
+msgid "Show Name"
+msgstr ""
+
+#: inc/class-showcase.php:181
+#@ ta-team
+msgid "Show Job Title"
+msgstr ""
+
+#: inc/class-showcase.php:182
+#@ ta-team
+msgid "Show Bio"
+msgstr ""
+
+#: inc/class-showcase.php:183
+#@ ta-team
+msgid "Show Address"
+msgstr ""
+
+#: inc/class-showcase.php:184
+#@ ta-team
+msgid "Show Phone Number"
+msgstr ""
+
+#: inc/class-showcase.php:185
+#: inc/class-showcase.php:332
+#@ ta-team
+msgid "Show Social Icons"
+msgstr ""
+
+#: inc/class-showcase.php:193
+#@ ta-team
+msgid "Group"
+msgstr ""
+
+#: inc/class-showcase.php:197
+#@ ta-team
+msgid "All Groups"
+msgstr ""
+
+#: inc/class-showcase.php:207
+#@ ta-team
+msgid "Number of member"
+msgstr ""
+
+#: inc/class-showcase.php:212
+#@ ta-team
+msgid "Maximum number of member to be displayed"
+msgstr ""
+
+#: inc/class-showcase.php:218
+#@ ta-team
+msgid "Orderby"
+msgstr ""
+
+#: inc/class-showcase.php:221
+#: inc/class-showcase.php:259
+#@ ta-team
+msgid "Default"
+msgstr ""
+
+#: inc/class-showcase.php:222
+#@ ta-team
+msgid "Name"
+msgstr ""
+
+#: inc/class-showcase.php:223
+#@ ta-team
+msgid "ID"
+msgstr ""
+
+#: inc/class-showcase.php:224
+#@ ta-team
+msgid "Random"
+msgstr ""
+
+#: inc/class-showcase.php:230
+#@ ta-team
+msgid "Order"
+msgstr ""
+
+#: inc/class-showcase.php:233
+#@ ta-team
+msgid "DESC"
+msgstr ""
+
+#: inc/class-showcase.php:234
+#@ ta-team
+msgid "ASC"
+msgstr ""
+
+#: inc/class-showcase.php:242
+#: inc/class-showcase.php:422
+#@ ta-team
+msgid "Grid"
+msgstr ""
+
+#: inc/class-showcase.php:245
+#@ ta-team
+msgid "One Column"
+msgstr ""
+
+#: inc/class-showcase.php:246
+#@ ta-team
+msgid "Two Columns"
+msgstr ""
+
+#: inc/class-showcase.php:247
+#@ ta-team
+msgid "Three Columns"
+msgstr ""
+
+#: inc/class-showcase.php:248
+#@ ta-team
+msgid "Four Columns"
+msgstr ""
+
+#: inc/class-showcase.php:256
+#@ ta-team
+msgid "Image Style"
+msgstr ""
+
+#: inc/class-showcase.php:260
+#@ ta-team
+msgid "Rounded"
+msgstr ""
+
+#: inc/class-showcase.php:261
+#@ ta-team
+msgid "Square"
+msgstr ""
+
+#: inc/class-showcase.php:264
+#@ ta-team
+msgid "Default style is the style of theme"
+msgstr ""
+
+#: inc/class-showcase.php:269
+#@ ta-team
+msgid "Alignment"
+msgstr ""
+
+#: inc/class-showcase.php:273
+#@ ta-team
+msgid "Left"
+msgstr ""
+
+#: inc/class-showcase.php:278
+#@ ta-team
+msgid "Center"
+msgstr ""
+
+#: inc/class-showcase.php:283
+#@ ta-team
+msgid "Right"
+msgstr ""
+
+#: inc/class-showcase.php:289
+#: inc/class-showcase.php:426
+#@ ta-team
+msgid "Display"
+msgstr ""
+
+#: inc/class-showcase.php:292
+#@ ta-team
+msgid "Image Only"
+msgstr ""
+
+#: inc/class-showcase.php:293
+#@ ta-team
+msgid "Short Info"
+msgstr ""
+
+#: inc/class-showcase.php:294
+#@ ta-team
+msgid "Medium Info"
+msgstr ""
+
+#: inc/class-showcase.php:295
+#@ ta-team
+msgid "Medium Info and Social Icons"
+msgstr ""
+
+#: inc/class-showcase.php:296
+#@ ta-team
+msgid "Full Info"
+msgstr ""
+
+#: inc/class-showcase.php:297
+#@ ta-team
+msgid "Custom"
+msgstr ""
+
+#: inc/class-showcase.php:300
+#@ ta-team
+msgid "Select the way your showcase will be showed. If you still confuse, we explained about this on Help tab on top-right corner."
+msgstr ""
+
+#: inc/class-showcase.php:318
+#@ ta-team
+msgid "Bio"
+msgstr ""
+
+#: inc/class-showcase.php:321
+#@ ta-team
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/class-showcase.php:322
+#@ ta-team
+msgid "Show Content"
+msgstr ""
+
+#: inc/class-showcase.php:328
+#@ ta-team
+msgid "When Hover"
+msgstr ""
+
+#: inc/class-showcase.php:331
+#@ ta-team
+msgid "Show Nothing"
+msgstr ""
+
+#: inc/class-showcase.php:333
+#@ ta-team
+msgid "Show Readmore Button"
+msgstr ""
+
+#: inc/class-showcase.php:334
+#@ ta-team
+msgid "Show Name, Job Title, Readmore Button"
+msgstr ""
+
+#: inc/class-showcase.php:335
+#@ ta-team
+msgid "Show Name, Job Title, Social Icons"
+msgstr ""
+
+#: inc/class-showcase.php:337
+#@ ta-team
+msgid "Select which will bew showed when mouse hover over member image"
+msgstr ""
+
+#: inc/class-showcase.php:357
+#@ ta-team
+msgid "Copy and paste this shortcode to any page you want to display team showcase."
+msgstr ""
+
+#: inc/class-showcase.php:420
+#@ ta-team
+msgid "You can generate a showcase about your team members by change all options we provide bellow. Here we will help you understand about some of options we provided."
+msgstr ""
+
+#: inc/class-showcase.php:423
+#@ ta-team
+msgid "We use grid to display a team showcase. Each member will be showed in one column. It is mean the number of columns is the number of member will be show in one row."
+msgstr ""
+
+#: inc/class-showcase.php:424
+#@ ta-team
+msgid "Example: you set \"Number of member\" is 8 and select grid \"Four Columns\", your showcase will display 8 members in two rows, each row contain 4 members."
+msgstr ""
+
+#: inc/class-showcase.php:428
+#@ ta-team
+msgid "Image Only: Only show member image. When mouse hover, it will show name, job title and readmore button."
+msgstr ""
+
+#: inc/class-showcase.php:429
+#@ ta-team
+msgid "Short Info: Show member image, name, job title. When mouse hover, it will show social icons."
+msgstr ""
+
+#: inc/class-showcase.php:430
+#@ ta-team
+msgid "Medium Info: Show member image, name, job title and excerpt. When mouse hover, it will show social icons"
+msgstr ""
+
+#: inc/class-showcase.php:431
+#@ ta-team
+msgid "Medium Info and Social Links: Like Medium Info but also show socials icons bellow excerpt. Nothing will be show when mouse hover."
+msgstr ""
+
+#: inc/class-showcase.php:432
+#@ ta-team
+msgid "Full Info: Show all information of member. Nothing will be show when mouse hover."
+msgstr ""
+
+#: inc/class-showcase.php:433
+#@ ta-team
+msgid "Custom: You can decide what to be showed by default and when mouse hover."
+msgstr ""
+
+#: inc/class-team-member.php:51
+#@ ta-team
+msgctxt "Post Type General Name"
+msgid "Team Member"
+msgstr ""
+
+#: inc/class-team-member.php:52
+#@ ta-team
+msgctxt "Post Type Singular Name"
+msgid "Team Member"
+msgstr ""
+
+#: inc/class-team-member.php:53
+#@ ta-team
+msgid "Team"
+msgstr ""
+
+#: inc/class-team-member.php:54
+#@ ta-team
+msgid "Parent Team Member"
+msgstr ""
+
+#: inc/class-team-member.php:55
+#@ ta-team
+msgid "All Members"
+msgstr ""
+
+#: inc/class-team-member.php:56
+#@ ta-team
+msgid "View Member"
+msgstr ""
+
+#: inc/class-team-member.php:57
+#@ ta-team
+msgid "Add New Member"
+msgstr ""
+
+#: inc/class-team-member.php:59
+#@ ta-team
+msgid "Edit Member"
+msgstr ""
+
+#: inc/class-team-member.php:60
+#@ ta-team
+msgid "Update Member"
+msgstr ""
+
+#: inc/class-team-member.php:61
+#@ ta-team
+msgid "Search Member"
+msgstr ""
+
+#: inc/class-team-member.php:66
+#@ ta-team
+msgid "Team Member"
+msgstr ""
+
+#: inc/class-team-member.php:67
+#@ ta-team
+msgid "Create and manage all works"
+msgstr ""
+
+#: inc/class-team-member.php:97
+#: inc/class-team-member.php:98
+#@ ta-team
+msgid "Team Group"
+msgstr ""
+
+#: inc/class-team-member.php:99
+#@ ta-team
+msgid "Search Team Groups"
+msgstr ""
+
+#: inc/class-team-member.php:100
+#@ ta-team
+msgid "All Team Groups"
+msgstr ""
+
+#: inc/class-team-member.php:101
+#@ ta-team
+msgid "Parent Team Group"
+msgstr ""
+
+#: inc/class-team-member.php:102
+#@ ta-team
+msgid "Parent Team Group:"
+msgstr ""
+
+#: inc/class-team-member.php:103
+#@ ta-team
+msgid "Edit Team Group"
+msgstr ""
+
+#: inc/class-team-member.php:104
+#@ ta-team
+msgid "Update Team Group"
+msgstr ""
+
+#: inc/class-team-member.php:105
+#@ ta-team
+msgid "Add New Team Group"
+msgstr ""
+
+#: inc/class-team-member.php:106
+#@ ta-team
+msgid "New Team Group Name"
+msgstr ""
+
+#: inc/class-team-member.php:107
+#@ ta-team
+msgctxt "Team Group Taxonomy Menu"
+msgid "Groups"
+msgstr ""
+
+#: inc/class-team-member.php:136
+#@ ta-team
+msgid "Facebook"
+msgstr ""
+
+#: inc/class-team-member.php:137
+#@ ta-team
+msgid "Twitter"
+msgstr ""
+
+#: inc/class-team-member.php:138
+#: inc/frontend.php:129
+#: inc/shortcodes.php:111
+#@ ta-team
+msgid "Google Plus"
+msgstr ""
+
+#: inc/class-team-member.php:139
+#@ ta-team
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/class-team-member.php:140
+#@ ta-team
+msgid "Flickr"
+msgstr ""
+
+#: inc/class-team-member.php:141
+#@ ta-team
+msgid "Dribbble"
+msgstr ""
+
+#: inc/class-team-member.php:142
+#@ ta-team
+msgid "Behance"
+msgstr ""
+
+#: inc/class-team-member.php:143
+#@ ta-team
+msgid "Youtube"
+msgstr ""
+
+#: inc/class-team-member.php:144
+#@ ta-team
+msgid "Vimeo"
+msgstr ""
+
+#: inc/class-team-member.php:161
+#@ ta-team
+msgid "Image"
+msgstr ""
+
+#: inc/class-team-member.php:190
+#@ ta-team
+msgid "Team Member Information"
+msgstr ""
+
+#: inc/class-team-member.php:215
+#@ ta-team
+msgid "Personal Information"
+msgstr ""
+
+#: inc/class-team-member.php:218
+#@ ta-team
+msgid "Job Title"
+msgstr ""
+
+#: inc/class-team-member.php:223
+#@ ta-team
+msgid "Address"
+msgstr ""
+
+#: inc/class-team-member.php:228
+#@ ta-team
+msgid "Phone Number"
+msgstr ""
+
+#: inc/class-team-member.php:233
+#@ ta-team
+msgid "Email"
+msgstr ""
+
+#: inc/class-team-member.php:238
+#@ ta-team
+msgid "Website"
+msgstr ""
+
+#: inc/class-team-member.php:244
+#@ ta-team
+msgid "Social Profile"
+msgstr ""
+
+#: inc/frontend.php:123
+#@ ta-team
+msgid "Group: "
+msgstr ""
+
+#: inc/class-showcase.php:251
+#@ ta-team
+msgid "It is number of member will be showed on one row"
+msgstr ""
+

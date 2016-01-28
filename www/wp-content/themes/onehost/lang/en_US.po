@@ -1,0 +1,2536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OneHost v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-10 14:35:09+0000\n"
+"Last-Translator: admin <admin@local.host>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ onehost
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:28
+#@ onehost
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:45
+#, php-format
+#@ onehost
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:25
+#: inc/widgets/tabs.php:36
+#@ onehost
+msgid "Comments"
+msgstr ""
+
+#: comments.php:46
+#@ onehost
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:51
+#@ onehost
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:56
+#@ onehost
+msgid "Add A Comment"
+msgstr ""
+
+#: comments.php:59
+#@ onehost
+msgid "Send Message"
+msgstr ""
+
+#: footer.php:36
+#@ onehost
+msgid "Footer "
+msgstr ""
+
+#: functions.php:57
+#@ onehost
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:116
+#@ onehost
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:126
+#, php-format
+#@ onehost
+msgid "Footer %d"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:15
+#@ onehost
+msgid "Format Details"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:22
+#: inc/backend/visual-composer.php:295
+#@ onehost
+msgid "Image"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:29
+#@ onehost
+msgid "Gallery"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:35
+#@ onehost
+msgid "Audio"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:43
+#@ onehost
+msgid "Video"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:51
+#: inc/backend/visual-composer.php:261
+#: inc/backend/visual-composer.php:339
+#@ onehost
+msgid "Link"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:59
+#@ onehost
+msgid "Text"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:67
+#@ onehost
+msgid "Quote"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:75
+#@ onehost
+msgid "Author"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:83
+#@ onehost
+msgid "URL"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:91
+#: inc/libs/class-tgm-plugin-activation.php:1299
+#@ onehost
+msgid "Status"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:104
+#@ onehost
+msgid "Display Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:110
+#: inc/backend/theme-options.php:41
+#@ onehost
+msgid "Title Area"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:115
+#@ onehost
+msgid "Hide Title Area"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:121
+#@ onehost
+msgid "Title Area Background"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:128
+#: inc/backend/visual-composer.php:155
+#: inc/backend/visual-composer.php:254
+#: inc/backend/visual-composer.php:332
+#: inc/backend/visual-composer.php:537
+#: inc/widgets/recent-posts.php:164
+#: inc/widgets/tabs.php:250
+#: inc/widgets/tabs.php:299
+#: inc/widgets/tabs.php:348
+#@ onehost
+msgid "Title"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:133
+#@ onehost
+msgid "Hide the Title"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:139
+#@ onehost
+msgid "Layout & Styles"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:144
+#@ onehost
+msgid "Custom Layout"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:150
+#: inc/backend/theme-options.php:29
+#@ onehost
+msgid "Layout"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:161
+#@ onehost
+msgid "Custom Css"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:167
+#@ onehost
+msgid "Custom JavaScript"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:177
+#: inc/backend/theme-options.php:25
+#@ onehost
+msgid "General"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:184
+#@ onehost
+msgid "Star Rating"
+msgstr ""
+
+#: inc/backend/plugins.php:82
+#: inc/libs/class-tgm-plugin-activation.php:164
+#@ onehost
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/backend/plugins.php:83
+#: inc/libs/class-tgm-plugin-activation.php:165
+#@ onehost
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/backend/plugins.php:84
+#: inc/libs/class-tgm-plugin-activation.php:166
+#, php-format
+#@ onehost
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/backend/plugins.php:85
+#@ onehost
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/backend/plugins.php:86
+#: inc/libs/class-tgm-plugin-activation.php:168
+#, php-format
+#@ onehost
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:87
+#: inc/libs/class-tgm-plugin-activation.php:169
+#, php-format
+#@ onehost
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:88
+#: inc/libs/class-tgm-plugin-activation.php:170
+#, php-format
+#@ onehost
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:89
+#: inc/libs/class-tgm-plugin-activation.php:171
+#, php-format
+#@ onehost
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:90
+#: inc/libs/class-tgm-plugin-activation.php:172
+#, php-format
+#@ onehost
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:91
+#: inc/libs/class-tgm-plugin-activation.php:173
+#, php-format
+#@ onehost
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:92
+#: inc/libs/class-tgm-plugin-activation.php:174
+#, php-format
+#@ onehost
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:93
+#: inc/libs/class-tgm-plugin-activation.php:175
+#, php-format
+#@ onehost
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:94
+#: inc/libs/class-tgm-plugin-activation.php:176
+#@ onehost
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:95
+#: inc/libs/class-tgm-plugin-activation.php:177
+#@ onehost
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:96
+#: inc/libs/class-tgm-plugin-activation.php:178
+#: inc/libs/class-tgm-plugin-activation.php:489
+#@ onehost
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/backend/plugins.php:97
+#: inc/libs/class-tgm-plugin-activation.php:179
+#: inc/libs/class-tgm-plugin-activation.php:1844
+#@ onehost
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/backend/plugins.php:98
+#, php-format
+#@ onehost
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/backend/theme-options.php:33
+#: inc/backend/visual-composer.php:184
+#: inc/backend/visual-composer.php:374
+#: inc/libs/theme-options/inc/class-fields.php:646
+#: inc/libs/theme-options/inc/class-fields.php:650
+#@ onehost
+msgid "Style"
+msgstr ""
+
+#: inc/backend/theme-options.php:37
+#@ onehost
+msgid "Header"
+msgstr ""
+
+#: inc/backend/theme-options.php:45
+#@ onehost
+msgid "Footer"
+msgstr ""
+
+#: inc/backend/theme-options.php:49
+#@ onehost
+msgid "Backup - Restore"
+msgstr ""
+
+#: inc/backend/theme-options.php:58
+#@ onehost
+msgid "Favicon"
+msgstr ""
+
+#: inc/backend/theme-options.php:63
+#@ onehost
+msgid "Home Screen Icons"
+msgstr ""
+
+#: inc/backend/theme-options.php:64
+#@ onehost
+msgid "Select image file that will be displayed on home screen of handheld devices."
+msgstr ""
+
+#: inc/backend/theme-options.php:70
+#@ onehost
+msgid "IPad Retina (144x144px)"
+msgstr ""
+
+#: inc/backend/theme-options.php:75
+#@ onehost
+msgid "IPad (72x72px)"
+msgstr ""
+
+#: inc/backend/theme-options.php:81
+#@ onehost
+msgid "IPhone Retina (114x114px)"
+msgstr ""
+
+#: inc/backend/theme-options.php:87
+#@ onehost
+msgid "IPhone (57x57px)"
+msgstr ""
+
+#: inc/backend/theme-options.php:96
+#@ onehost
+msgid "Preloader"
+msgstr ""
+
+#: inc/backend/theme-options.php:99
+#@ onehost
+msgid "Display a preloader when page is loading"
+msgstr ""
+
+#: inc/backend/theme-options.php:103
+#: inc/backend/visual-composer.php:700
+#@ onehost
+msgid "No Animation"
+msgstr ""
+
+#: inc/backend/theme-options.php:106
+#@ onehost
+msgid "Hide all animations."
+msgstr ""
+
+#: inc/backend/theme-options.php:113
+#@ onehost
+msgid "Page Comment"
+msgstr ""
+
+#: inc/backend/theme-options.php:116
+#@ onehost
+msgid "Display comment form on page"
+msgstr ""
+
+#: inc/backend/theme-options.php:120
+#@ onehost
+msgid "Portfolio Comment"
+msgstr ""
+
+#: inc/backend/theme-options.php:123
+#@ onehost
+msgid "Display comment form on portfolio single page"
+msgstr ""
+
+#: inc/backend/theme-options.php:127
+#@ onehost
+msgid "Socials Links"
+msgstr ""
+
+#: inc/backend/theme-options.php:131
+#@ onehost
+msgid "Socials"
+msgstr ""
+
+#: inc/backend/theme-options.php:133
+#@ onehost
+msgid "Click to social icon to add link"
+msgstr ""
+
+#: inc/backend/theme-options.php:140
+#@ onehost
+msgid "Default Layout"
+msgstr ""
+
+#: inc/backend/theme-options.php:141
+#@ onehost
+msgid "Default layout for whole site"
+msgstr ""
+
+#: inc/backend/theme-options.php:152
+#@ onehost
+msgid "Single Layout"
+msgstr ""
+
+#: inc/backend/theme-options.php:153
+#@ onehost
+msgid "Default layout of single post"
+msgstr ""
+
+#: inc/backend/theme-options.php:164
+#@ onehost
+msgid "Page Layout"
+msgstr ""
+
+#: inc/backend/theme-options.php:165
+#@ onehost
+msgid "Default layout of single page"
+msgstr ""
+
+#: inc/backend/theme-options.php:179
+#@ onehost
+msgid "Site Scheme"
+msgstr ""
+
+#: inc/backend/theme-options.php:183
+#@ onehost
+msgid "Dark"
+msgstr ""
+
+#: inc/backend/theme-options.php:184
+#@ onehost
+msgid "Light"
+msgstr ""
+
+#: inc/backend/theme-options.php:189
+#@ onehost
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/backend/theme-options.php:190
+#@ onehost
+msgid "Select color scheme for website"
+msgstr ""
+
+#: inc/backend/theme-options.php:208
+#@ onehost
+msgid "Custom Color Scheme"
+msgstr ""
+
+#: inc/backend/theme-options.php:209
+#@ onehost
+msgid "Enable custom color scheme to pick your own color scheme"
+msgstr ""
+
+#: inc/backend/theme-options.php:221
+#@ onehost
+msgid "Custom Color"
+msgstr ""
+
+#: inc/backend/theme-options.php:230
+#@ onehost
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/backend/theme-options.php:233
+#@ onehost
+msgid "Enter your custom style rulers here"
+msgstr ""
+
+#: inc/backend/theme-options.php:240
+#@ onehost
+msgid "Logo"
+msgstr ""
+
+#: inc/backend/theme-options.php:241
+#@ onehost
+msgid "Select logo from media library or upload new one"
+msgstr ""
+
+#: inc/backend/theme-options.php:246
+#@ onehost
+msgid "Logo Size (Optional)"
+msgstr ""
+
+#: inc/backend/theme-options.php:247
+#@ onehost
+msgid "If the Retina Logo uploaded, please enter the size of the Standard Logo just upload above (not the Retina Logo)"
+msgstr ""
+
+#: inc/backend/theme-options.php:253
+#@ onehost
+msgid "(Width)"
+msgstr ""
+
+#: inc/backend/theme-options.php:259
+#@ onehost
+msgid "(Height)"
+msgstr ""
+
+#: inc/backend/theme-options.php:266
+#@ onehost
+msgid "Logo Margin"
+msgstr ""
+
+#: inc/backend/theme-options.php:273
+#@ onehost
+msgid "top"
+msgstr ""
+
+#: inc/backend/theme-options.php:280
+#@ onehost
+msgid "right"
+msgstr ""
+
+#: inc/backend/theme-options.php:287
+#@ onehost
+msgid "bottom"
+msgstr ""
+
+#: inc/backend/theme-options.php:294
+#@ onehost
+msgid "left"
+msgstr ""
+
+#: inc/backend/theme-options.php:304
+#@ onehost
+msgid "Header Script"
+msgstr ""
+
+#: inc/backend/theme-options.php:305
+#@ onehost
+msgid "Enter your custom scripts here like Google Analytics script"
+msgstr ""
+
+#: inc/backend/theme-options.php:313
+#@ onehost
+msgid "Background Image"
+msgstr ""
+
+#: inc/backend/theme-options.php:321
+#@ onehost
+msgid "Enable Footer Widget"
+msgstr ""
+
+#: inc/backend/theme-options.php:327
+#@ onehost
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: inc/backend/theme-options.php:328
+#@ onehost
+msgid "How many sidebar you want to show on footer"
+msgstr ""
+
+#: inc/backend/theme-options.php:343
+#@ onehost
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/backend/theme-options.php:344
+#@ onehost
+msgid "Shortcodes are allowed"
+msgstr ""
+
+#: inc/backend/theme-options.php:346
+#@ onehost
+msgid "Copyright &copy; 2014"
+msgstr ""
+
+#: inc/backend/theme-options.php:350
+#@ onehost
+msgid "Footer Scripts"
+msgstr ""
+
+#: inc/backend/theme-options.php:358
+#@ onehost
+msgid "Backup Settings"
+msgstr ""
+
+#: inc/backend/theme-options.php:359
+#@ onehost
+msgid "You can tranfer the saved options data between different installs by copying the text inside the text box. To import data from another install, replace the data in the text box with the one from another install and click \"Import Options\" button above"
+msgstr ""
+
+#: inc/backend/visual-composer.php:52
+#@ onehost
+msgid "Set CSS id for this row"
+msgstr ""
+
+#: inc/backend/visual-composer.php:56
+#@ onehost
+msgid "Full width content"
+msgstr ""
+
+#: inc/backend/visual-composer.php:58
+#: inc/backend/visual-composer.php:66
+#@ onehost
+msgid "Enable"
+msgstr ""
+
+#: inc/backend/visual-composer.php:59
+#@ onehost
+msgid "Select it if you want your content to be displayed in full width of page"
+msgstr ""
+
+#: inc/backend/visual-composer.php:63
+#@ onehost
+msgid "Enable Parallax effect"
+msgstr ""
+
+#: inc/backend/visual-composer.php:65
+#: inc/backend/visual-composer.php:73
+#: inc/backend/visual-composer.php:81
+#: inc/backend/visual-composer.php:90
+#: inc/backend/visual-composer.php:99
+#: inc/backend/visual-composer.php:108
+#: inc/backend/visual-composer.php:117
+#: inc/backend/visual-composer.php:126
+#: inc/backend/visual-composer.php:135
+#@ onehost
+msgid "Design options"
+msgstr ""
+
+#: inc/backend/visual-composer.php:67
+#@ onehost
+msgid "Enable this option if you want to have parallax effect on this row. When you enable this option, please set background repeat option as \"Theme defaults\" to make it works."
+msgstr ""
+
+#: inc/backend/visual-composer.php:71
+#@ onehost
+msgid "Overlay"
+msgstr ""
+
+#: inc/backend/visual-composer.php:75
+#@ onehost
+msgid "Select an overlay color for this row"
+msgstr ""
+
+#: inc/backend/visual-composer.php:79
+#@ onehost
+msgid "Particleground animated"
+msgstr ""
+
+#: inc/backend/visual-composer.php:82
+#: inc/backend/visual-composer.php:109
+#: inc/backend/visual-composer.php:136
+#@ onehost
+msgid "Show"
+msgstr ""
+
+#: inc/backend/visual-composer.php:83
+#@ onehost
+msgid "Show particleground animated"
+msgstr ""
+
+#: inc/backend/visual-composer.php:88
+#@ onehost
+msgid "Dot Color"
+msgstr ""
+
+#: inc/backend/visual-composer.php:92
+#@ onehost
+msgid "Select an dot color for particleground"
+msgstr ""
+
+#: inc/backend/visual-composer.php:97
+#@ onehost
+msgid "Line Color"
+msgstr ""
+
+#: inc/backend/visual-composer.php:101
+#@ onehost
+msgid "Select an line color for particleground"
+msgstr ""
+
+#: inc/backend/visual-composer.php:106
+#@ onehost
+msgid "Youtube Video Background"
+msgstr ""
+
+#: inc/backend/visual-composer.php:110
+#@ onehost
+msgid "Show Youtube Video Background"
+msgstr ""
+
+#: inc/backend/visual-composer.php:115
+#@ onehost
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/backend/visual-composer.php:119
+#@ onehost
+msgid "Enter an valid Youtube URL for video background. For better performance, this option does not work on mobile."
+msgstr ""
+
+#: inc/backend/visual-composer.php:124
+#@ onehost
+msgid "Mute Youtube Video"
+msgstr ""
+
+#: inc/backend/visual-composer.php:127
+#@ onehost
+msgid "Mute"
+msgstr ""
+
+#: inc/backend/visual-composer.php:129
+#@ onehost
+msgid "Enable this option if you want to mute video by default."
+msgstr ""
+
+#: inc/backend/visual-composer.php:133
+#@ onehost
+msgid "Show Sound Toggle Icon"
+msgstr ""
+
+#: inc/backend/visual-composer.php:138
+#@ onehost
+msgid "Enable this option if you want to show a sound toggle icon at the bottom of this row."
+msgstr ""
+
+#: inc/backend/visual-composer.php:146
+#@ onehost
+msgid "Section Title"
+msgstr ""
+
+#: inc/backend/visual-composer.php:149
+#: inc/backend/visual-composer.php:216
+#: inc/backend/visual-composer.php:269
+#: inc/backend/visual-composer.php:290
+#: inc/backend/visual-composer.php:347
+#: inc/backend/visual-composer.php:369
+#: inc/backend/visual-composer.php:453
+#: inc/backend/visual-composer.php:532
+#@ onehost
+msgid "Content"
+msgstr ""
+
+#: inc/backend/visual-composer.php:158
+#@ onehost
+msgid "Enter the title content"
+msgstr ""
+
+#: inc/backend/visual-composer.php:163
+#@ onehost
+msgid "Text Color"
+msgstr ""
+
+#: inc/backend/visual-composer.php:166
+#@ onehost
+msgid "Set text color for this section title. Leave empty to use the default color of theme."
+msgstr ""
+
+#: inc/backend/visual-composer.php:172
+#@ onehost
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/backend/visual-composer.php:175
+#@ onehost
+msgid "Align Center"
+msgstr ""
+
+#: inc/backend/visual-composer.php:176
+#@ onehost
+msgid "Align Left"
+msgstr ""
+
+#: inc/backend/visual-composer.php:177
+#@ onehost
+msgid "Align Right"
+msgstr ""
+
+#: inc/backend/visual-composer.php:179
+#@ onehost
+msgid "Select text alignment for this section title."
+msgstr ""
+
+#: inc/backend/visual-composer.php:187
+#: inc/backend/visual-composer.php:313
+#@ onehost
+msgid "Default"
+msgstr ""
+
+#: inc/backend/visual-composer.php:188
+#@ onehost
+msgid "Border"
+msgstr ""
+
+#: inc/backend/visual-composer.php:190
+#@ onehost
+msgid "Select style for this section title."
+msgstr ""
+
+#: inc/backend/visual-composer.php:195
+#: inc/backend/visual-composer.php:565
+#@ onehost
+msgid "Description"
+msgstr ""
+
+#: inc/backend/visual-composer.php:198
+#@ onehost
+msgid "Enter a short description for section"
+msgstr ""
+
+#: inc/backend/visual-composer.php:203
+#: inc/backend/visual-composer.php:277
+#: inc/backend/visual-composer.php:355
+#: inc/backend/visual-composer.php:441
+#: inc/backend/visual-composer.php:520
+#@ onehost
+msgid "Extra class name"
+msgstr ""
+
+#: inc/backend/visual-composer.php:206
+#: inc/backend/visual-composer.php:280
+#: inc/backend/visual-composer.php:358
+#: inc/backend/visual-composer.php:443
+#: inc/backend/visual-composer.php:522
+#@ onehost
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/backend/visual-composer.php:213
+#@ onehost
+msgid "Icon Box"
+msgstr ""
+
+#: inc/backend/visual-composer.php:221
+#@ onehost
+msgid "Icon"
+msgstr ""
+
+#: inc/backend/visual-composer.php:228
+#@ onehost
+msgid "Icon Position"
+msgstr ""
+
+#: inc/backend/visual-composer.php:231
+#: inc/backend/visual-composer.php:324
+#: inc/libs/theme-options/inc/class-fields.php:726
+#@ onehost
+msgid "Top"
+msgstr ""
+
+#: inc/backend/visual-composer.php:232
+#: inc/backend/visual-composer.php:325
+#: inc/libs/theme-options/inc/class-fields.php:716
+#@ onehost
+msgid "Left"
+msgstr ""
+
+#: inc/backend/visual-composer.php:233
+#: inc/backend/visual-composer.php:326
+#: inc/libs/theme-options/inc/class-fields.php:718
+#@ onehost
+msgid "Right"
+msgstr ""
+
+#: inc/backend/visual-composer.php:239
+#@ onehost
+msgid "Border Circle Icon"
+msgstr ""
+
+#: inc/backend/visual-composer.php:241
+#: inc/backend/visual-composer.php:395
+#: inc/backend/visual-composer.php:402
+#: inc/backend/visual-composer.php:420
+#: inc/backend/visual-composer.php:428
+#: inc/backend/visual-composer.php:436
+#: inc/backend/visual-composer.php:508
+#: inc/backend/visual-composer.php:515
+#: inc/backend/visual-composer.php:560
+#@ onehost
+msgid "Yes"
+msgstr ""
+
+#: inc/backend/visual-composer.php:246
+#@ onehost
+msgid "Background Color"
+msgstr ""
+
+#: inc/backend/visual-composer.php:249
+#@ onehost
+msgid "Set background color for this icon box."
+msgstr ""
+
+#: inc/backend/visual-composer.php:264
+#: inc/backend/visual-composer.php:342
+#@ onehost
+msgid "Enter URL if you want this title to have a link."
+msgstr ""
+
+#: inc/backend/visual-composer.php:272
+#: inc/backend/visual-composer.php:350
+#@ onehost
+msgid "Enter the content of this box"
+msgstr ""
+
+#: inc/backend/visual-composer.php:287
+#@ onehost
+msgid "Image Box"
+msgstr ""
+
+#: inc/backend/visual-composer.php:298
+#: inc/backend/visual-composer.php:461
+#@ onehost
+msgid "Select images from media library"
+msgstr ""
+
+#: inc/backend/visual-composer.php:303
+#: inc/backend/visual-composer.php:466
+#@ onehost
+msgid "Image size"
+msgstr ""
+
+#: inc/backend/visual-composer.php:305
+#@ onehost
+msgid "Enter image size. Example: tiny, thumbnail, medium, large, full. Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: inc/backend/visual-composer.php:310
+#@ onehost
+msgid "Image Style"
+msgstr ""
+
+#: inc/backend/visual-composer.php:314
+#@ onehost
+msgid "Rounded"
+msgstr ""
+
+#: inc/backend/visual-composer.php:315
+#@ onehost
+msgid "Circle"
+msgstr ""
+
+#: inc/backend/visual-composer.php:321
+#@ onehost
+msgid "Image Position"
+msgstr ""
+
+#: inc/backend/visual-composer.php:366
+#@ onehost
+msgid "Testimonials"
+msgstr ""
+
+#: inc/backend/visual-composer.php:377
+#@ onehost
+msgid "Short Info"
+msgstr ""
+
+#: inc/backend/visual-composer.php:378
+#@ onehost
+msgid "Medium Info"
+msgstr ""
+
+#: inc/backend/visual-composer.php:379
+#@ onehost
+msgid "Full Info"
+msgstr ""
+
+#: inc/backend/visual-composer.php:385
+#@ onehost
+msgid "Number Of Testimonials"
+msgstr ""
+
+#: inc/backend/visual-composer.php:388
+#@ onehost
+msgid "How many testimonials to show? Enter number or word \"All\"."
+msgstr ""
+
+#: inc/backend/visual-composer.php:393
+#@ onehost
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/backend/visual-composer.php:400
+#@ onehost
+msgid "Single Item"
+msgstr ""
+
+#: inc/backend/visual-composer.php:404
+#@ onehost
+msgid "Display only one item."
+msgstr ""
+
+#: inc/backend/visual-composer.php:409
+#@ onehost
+msgid "Slide Show Speed"
+msgstr ""
+
+#: inc/backend/visual-composer.php:412
+#@ onehost
+msgid "Set the speed of the slideshow cycling(in ms)."
+msgstr ""
+
+#: inc/backend/visual-composer.php:417
+#@ onehost
+msgid "Auto Play"
+msgstr ""
+
+#: inc/backend/visual-composer.php:425
+#: inc/backend/visual-composer.php:513
+#@ onehost
+msgid "Show navigation control"
+msgstr ""
+
+#: inc/backend/visual-composer.php:433
+#@ onehost
+msgid "Show pagination control"
+msgstr ""
+
+#: inc/backend/visual-composer.php:450
+#@ onehost
+msgid "OneHost Images Carousel"
+msgstr ""
+
+#: inc/backend/visual-composer.php:458
+#@ onehost
+msgid "Images"
+msgstr ""
+
+#: inc/backend/visual-composer.php:468
+#@ onehost
+msgid "Enter image size. Example: thumbnail, medium, large, full. Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: inc/backend/visual-composer.php:473
+#@ onehost
+msgid "Custom links"
+msgstr ""
+
+#: inc/backend/visual-composer.php:475
+#@ onehost
+msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+msgstr ""
+
+#: inc/backend/visual-composer.php:480
+#@ onehost
+msgid "Custom link target"
+msgstr ""
+
+#: inc/backend/visual-composer.php:483
+#@ onehost
+msgid "Same window"
+msgstr ""
+
+#: inc/backend/visual-composer.php:484
+#@ onehost
+msgid "New window"
+msgstr ""
+
+#: inc/backend/visual-composer.php:486
+#@ onehost
+msgid "Select where to open custom links."
+msgstr ""
+
+#: inc/backend/visual-composer.php:491
+#@ onehost
+msgid "Slides per view"
+msgstr ""
+
+#: inc/backend/visual-composer.php:494
+#@ onehost
+msgid "Set numbers of slides you want to display at the same time on slider's container for carousel mode."
+msgstr ""
+
+#: inc/backend/visual-composer.php:499
+#@ onehost
+msgid "Slider speed"
+msgstr ""
+
+#: inc/backend/visual-composer.php:501
+#@ onehost
+msgid "Duration of animation between slides (in ms)."
+msgstr ""
+
+#: inc/backend/visual-composer.php:506
+#@ onehost
+msgid "Slider autoplay"
+msgstr ""
+
+#: inc/backend/visual-composer.php:529
+#@ onehost
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/backend/visual-composer.php:544
+#@ onehost
+msgid "Price"
+msgstr ""
+
+#: inc/backend/visual-composer.php:551
+#@ onehost
+msgid "Time Duration"
+msgstr ""
+
+#: inc/backend/visual-composer.php:558
+#@ onehost
+msgid "Featured"
+msgstr ""
+
+#: inc/backend/visual-composer.php:568
+#@ onehost
+msgid "Enter a short description"
+msgstr ""
+
+#: inc/backend/visual-composer.php:573
+#@ onehost
+msgid "Button text"
+msgstr ""
+
+#: inc/backend/visual-composer.php:575
+#@ onehost
+msgid "Buy Now"
+msgstr ""
+
+#: inc/backend/visual-composer.php:580
+#@ onehost
+msgid "Button URL"
+msgstr ""
+
+#: inc/backend/visual-composer.php:592
+#: inc/backend/visual-composer.php:594
+#: inc/backend/visual-composer.php:603
+#: inc/backend/visual-composer.php:612
+#@ onehost
+msgid "Animation"
+msgstr ""
+
+#: inc/backend/visual-composer.php:595
+#@ onehost
+msgid "Select an animation for this column. You can see more about animation <a href=\"http://daneden.github.io/animate.css\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: inc/backend/visual-composer.php:601
+#@ onehost
+msgid "Duration"
+msgstr ""
+
+#: inc/backend/visual-composer.php:605
+#@ onehost
+msgid "Duration of animation (in ms)."
+msgstr ""
+
+#: inc/backend/visual-composer.php:611
+#@ onehost
+msgid "Delay"
+msgstr ""
+
+#: inc/backend/visual-composer.php:615
+#@ onehost
+msgid "Delay of animation (in ms)."
+msgstr ""
+
+#: inc/backend/visual-composer.php:669
+#: inc/libs/theme-options/inc/class-admin.php:124
+#@ onehost
+msgid "Quick Search"
+msgstr ""
+
+#: inc/backend/visual-composer.php:701
+#@ onehost
+msgid "Bounce"
+msgstr ""
+
+#: inc/backend/visual-composer.php:702
+#@ onehost
+msgid "Flash"
+msgstr ""
+
+#: inc/backend/visual-composer.php:703
+#@ onehost
+msgid "Pulse"
+msgstr ""
+
+#: inc/backend/visual-composer.php:704
+#@ onehost
+msgid "Rubberband"
+msgstr ""
+
+#: inc/backend/visual-composer.php:705
+#@ onehost
+msgid "Shake"
+msgstr ""
+
+#: inc/backend/visual-composer.php:706
+#@ onehost
+msgid "Swing"
+msgstr ""
+
+#: inc/backend/visual-composer.php:707
+#@ onehost
+msgid "Tada"
+msgstr ""
+
+#: inc/backend/visual-composer.php:708
+#@ onehost
+msgid "Wobble"
+msgstr ""
+
+#: inc/backend/visual-composer.php:709
+#@ onehost
+msgid "Bouncein"
+msgstr ""
+
+#: inc/backend/visual-composer.php:710
+#@ onehost
+msgid "Bounceindown"
+msgstr ""
+
+#: inc/backend/visual-composer.php:711
+#@ onehost
+msgid "Bounceinleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:712
+#@ onehost
+msgid "Bounceinright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:713
+#@ onehost
+msgid "Bounceinup"
+msgstr ""
+
+#: inc/backend/visual-composer.php:714
+#@ onehost
+msgid "Bounceout"
+msgstr ""
+
+#: inc/backend/visual-composer.php:715
+#@ onehost
+msgid "Bounceoutdown"
+msgstr ""
+
+#: inc/backend/visual-composer.php:716
+#@ onehost
+msgid "Bounceoutleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:717
+#@ onehost
+msgid "Bounceoutright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:718
+#@ onehost
+msgid "Bounceoutup"
+msgstr ""
+
+#: inc/backend/visual-composer.php:719
+#@ onehost
+msgid "Fadein"
+msgstr ""
+
+#: inc/backend/visual-composer.php:720
+#@ onehost
+msgid "Fadeindown"
+msgstr ""
+
+#: inc/backend/visual-composer.php:721
+#@ onehost
+msgid "Fadeindownbig"
+msgstr ""
+
+#: inc/backend/visual-composer.php:722
+#@ onehost
+msgid "Fadeinleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:723
+#@ onehost
+msgid "Fadeinleftbig"
+msgstr ""
+
+#: inc/backend/visual-composer.php:724
+#@ onehost
+msgid "Fadeinright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:725
+#@ onehost
+msgid "Fadeinrightbig"
+msgstr ""
+
+#: inc/backend/visual-composer.php:726
+#@ onehost
+msgid "Fadeinup"
+msgstr ""
+
+#: inc/backend/visual-composer.php:727
+#@ onehost
+msgid "Fadeinupbig"
+msgstr ""
+
+#: inc/backend/visual-composer.php:728
+#@ onehost
+msgid "Fadeout"
+msgstr ""
+
+#: inc/backend/visual-composer.php:729
+#@ onehost
+msgid "Fadeoutdown"
+msgstr ""
+
+#: inc/backend/visual-composer.php:730
+#@ onehost
+msgid "Fadeoutdownbig"
+msgstr ""
+
+#: inc/backend/visual-composer.php:731
+#@ onehost
+msgid "Fadeoutleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:732
+#@ onehost
+msgid "Fadeoutleftbig"
+msgstr ""
+
+#: inc/backend/visual-composer.php:733
+#@ onehost
+msgid "Fadeoutright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:734
+#@ onehost
+msgid "Fadeoutrightbig"
+msgstr ""
+
+#: inc/backend/visual-composer.php:735
+#@ onehost
+msgid "Fadeoutup"
+msgstr ""
+
+#: inc/backend/visual-composer.php:736
+#@ onehost
+msgid "Fadeoutupbig"
+msgstr ""
+
+#: inc/backend/visual-composer.php:737
+#@ onehost
+msgid "Flip"
+msgstr ""
+
+#: inc/backend/visual-composer.php:738
+#@ onehost
+msgid "Flipinx"
+msgstr ""
+
+#: inc/backend/visual-composer.php:739
+#@ onehost
+msgid "Flipiny"
+msgstr ""
+
+#: inc/backend/visual-composer.php:740
+#@ onehost
+msgid "Flipoutx"
+msgstr ""
+
+#: inc/backend/visual-composer.php:741
+#@ onehost
+msgid "Flipouty"
+msgstr ""
+
+#: inc/backend/visual-composer.php:742
+#@ onehost
+msgid "Lightspeedin"
+msgstr ""
+
+#: inc/backend/visual-composer.php:743
+#@ onehost
+msgid "Lightspeedout"
+msgstr ""
+
+#: inc/backend/visual-composer.php:744
+#@ onehost
+msgid "Rotatein"
+msgstr ""
+
+#: inc/backend/visual-composer.php:745
+#@ onehost
+msgid "Rotateindownleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:746
+#@ onehost
+msgid "Rotateindownright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:747
+#@ onehost
+msgid "Rotateinupleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:748
+#@ onehost
+msgid "Rotateinupright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:749
+#@ onehost
+msgid "Rotateout"
+msgstr ""
+
+#: inc/backend/visual-composer.php:750
+#@ onehost
+msgid "Rotateoutdownleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:751
+#@ onehost
+msgid "Rotateoutdownright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:752
+#@ onehost
+msgid "Rotateoutupleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:753
+#@ onehost
+msgid "Rotateoutupright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:754
+#@ onehost
+msgid "Hinge"
+msgstr ""
+
+#: inc/backend/visual-composer.php:755
+#@ onehost
+msgid "Rollin"
+msgstr ""
+
+#: inc/backend/visual-composer.php:756
+#@ onehost
+msgid "Rollout"
+msgstr ""
+
+#: inc/backend/visual-composer.php:757
+#@ onehost
+msgid "Zoomin"
+msgstr ""
+
+#: inc/backend/visual-composer.php:758
+#@ onehost
+msgid "Zoomindown"
+msgstr ""
+
+#: inc/backend/visual-composer.php:759
+#@ onehost
+msgid "Zoominleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:760
+#@ onehost
+msgid "Zoominright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:761
+#@ onehost
+msgid "Zoominup"
+msgstr ""
+
+#: inc/backend/visual-composer.php:762
+#@ onehost
+msgid "Zoomout"
+msgstr ""
+
+#: inc/backend/visual-composer.php:763
+#@ onehost
+msgid "Zoomoutdown"
+msgstr ""
+
+#: inc/backend/visual-composer.php:764
+#@ onehost
+msgid "Zoomoutleft"
+msgstr ""
+
+#: inc/backend/visual-composer.php:765
+#@ onehost
+msgid "Zoomoutright"
+msgstr ""
+
+#: inc/backend/visual-composer.php:766
+#@ onehost
+msgid "Zoomoutup"
+msgstr ""
+
+#: inc/frontend/entry.php:39
+#@ onehost
+msgid "Page not found"
+msgstr ""
+
+#: inc/frontend/entry.php:42
+#: inc/frontend/entry.php:45
+#@ onehost
+msgid "Blog"
+msgstr ""
+
+#: inc/frontend/entry.php:100
+#: parts/content-page.php:25
+#@ onehost
+msgid "Edit"
+msgstr ""
+
+#: inc/frontend/entry.php:104
+#@ onehost
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/frontend/entry.php:129
+#@ onehost
+msgid "Name"
+msgstr ""
+
+#: inc/frontend/entry.php:133
+#@ onehost
+msgid "Email"
+msgstr ""
+
+#: inc/frontend/entry.php:137
+#@ onehost
+msgid "Website"
+msgstr ""
+
+#: inc/frontend/header.php:34
+#, php-format
+#@ onehost
+msgid "Page %s"
+msgstr ""
+
+#: inc/functions/entry.php:27
+#, php-format
+#@ onehost
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr ""
+
+#: inc/functions/entry.php:69
+#, php-format
+#@ onehost
+msgid "Continue reading &quot;%s&quot;"
+msgstr ""
+
+#: inc/functions/entry.php:199
+#, php-format
+#@ onehost
+msgid "Category: %s"
+msgstr ""
+
+#: inc/functions/entry.php:201
+#, php-format
+#@ onehost
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/functions/entry.php:203
+#, php-format
+#@ onehost
+msgid "Author: %s"
+msgstr ""
+
+#: inc/functions/entry.php:205
+#, php-format
+#@ onehost
+msgid "Year: %s"
+msgstr ""
+
+#: inc/functions/entry.php:205
+#@ onehost
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/functions/entry.php:207
+#, php-format
+#@ onehost
+msgid "Month: %s"
+msgstr ""
+
+#: inc/functions/entry.php:207
+#@ onehost
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/functions/entry.php:209
+#, php-format
+#@ onehost
+msgid "Day: %s"
+msgstr ""
+
+#: inc/functions/entry.php:209
+#@ onehost
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/functions/entry.php:212
+#@ onehost
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/functions/entry.php:214
+#@ onehost
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/functions/entry.php:216
+#@ onehost
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/functions/entry.php:218
+#@ onehost
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/functions/entry.php:220
+#@ onehost
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/functions/entry.php:222
+#@ onehost
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/functions/entry.php:224
+#@ onehost
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/functions/entry.php:226
+#@ onehost
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/functions/entry.php:228
+#@ onehost
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/functions/entry.php:231
+#, php-format
+#@ onehost
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/functions/entry.php:235
+#, php-format
+#@ onehost
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/functions/entry.php:237
+#: sidebar.php:20
+#@ onehost
+msgid "Archives"
+msgstr ""
+
+#: inc/functions/nav.php:29
+#@ onehost
+msgid "Prev"
+msgstr ""
+
+#: inc/functions/nav.php:30
+#@ onehost
+msgid "Next"
+msgstr ""
+
+#: inc/functions/nav.php:56
+#@ onehost
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/functions/nav.php:60
+#@ onehost
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/functions/shortcodes.php:533
+#: inc/functions/shortcodes.php:541
+#@ onehost
+msgid "Can not connect to Google Maps APIs"
+msgstr ""
+
+#: inc/functions/shortcodes.php:559
+#@ onehost
+msgid "No location found for the entered address."
+msgstr ""
+
+#: inc/functions/shortcodes.php:561
+#@ onehost
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: inc/functions/shortcodes.php:563
+#@ onehost
+msgid "Something went wrong while retrieving your map, please ensure you have entered the short code correctly."
+msgstr ""
+
+#: inc/functions/shortcodes.php:566
+#@ onehost
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:167
+#@ onehost
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:180
+#, php-format
+#@ onehost
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:516
+#: inc/libs/class-tgm-plugin-activation.php:2056
+#@ onehost
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:544
+#, php-format
+#@ onehost
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:703
+#@ onehost
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1090
+#@ onehost
+msgid "External Link"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1095
+#@ onehost
+msgid "Private Repository"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1098
+#@ onehost
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1102
+#@ onehost
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1105
+#@ onehost
+msgid "Required"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1105
+#@ onehost
+msgid "Recommended"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1108
+#@ onehost
+msgid "Not Installed"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1110
+#@ onehost
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1280
+#, php-format
+#@ onehost
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1296
+#@ onehost
+msgid "Plugin"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1297
+#@ onehost
+msgid "Source"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1298
+#@ onehost
+msgid "Type"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1317
+#@ onehost
+msgid "Install"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1318
+#@ onehost
+msgid "Activate"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1542
+#@ onehost
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1827
+#@ onehost
+msgid "Install package not available."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1828
+#, php-format
+#@ onehost
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1829
+#@ onehost
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1830
+#@ onehost
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1831
+#@ onehost
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1832
+#@ onehost
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1843
+#@ onehost
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1953
+#@ onehost
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1954
+#, php-format
+#@ onehost
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1954
+#: inc/libs/class-tgm-plugin-activation.php:1963
+#@ onehost
+msgid "Show Details"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1954
+#: inc/libs/class-tgm-plugin-activation.php:1963
+#@ onehost
+msgid "Hide Details"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1955
+#@ onehost
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ onehost
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1960
+#@ onehost
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ onehost
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1962
+#, php-format
+#@ onehost
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1963
+#, php-format
+#@ onehost
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1964
+#@ onehost
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1965
+#, php-format
+#@ onehost
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:41
+#: inc/libs/theme-options/inc/class-admin.php:98
+#@ onehost
+msgid "Theme Options"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:70
+#@ onehost
+msgid "This action can't be undo. Are you sure want to reset?"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:71
+#@ onehost
+msgid "All previous data will be overwritten and can't be undo. Are you sure want to import?"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:72
+#@ onehost
+msgid "Select Image"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:73
+#@ onehost
+msgid "Select Images"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:92
+#@ onehost
+msgid "Support"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:94
+#@ onehost
+msgid "Documentation"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:101
+#@ onehost
+msgid " by "
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:127
+#@ onehost
+msgid "Reset Options"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-admin.php:128
+#@ onehost
+msgid "Save Changes"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:434
+#: inc/libs/theme-options/inc/class-fields.php:705
+#@ onehost
+msgid "Upload Image"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:435
+#: inc/libs/theme-options/inc/class-fields.php:706
+#@ onehost
+msgid "Remove Image"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:459
+#@ onehost
+msgid "Upload Images"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:616
+#@ onehost
+msgid "Select"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:619
+#@ onehost
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:625
+#@ onehost
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:632
+#: inc/libs/theme-options/inc/class-fields.php:636
+#@ onehost
+msgid "Size"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:639
+#@ onehost
+msgid "Font Family"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:642
+#@ onehost
+msgid "Family"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:654
+#: inc/libs/theme-options/inc/class-fields.php:657
+#: inc/libs/theme-options/inc/class-fields.php:756
+#@ onehost
+msgid "Color"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:717
+#: inc/libs/theme-options/inc/class-fields.php:727
+#@ onehost
+msgid "Center"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:728
+#@ onehost
+msgid "Bottom"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:737
+#@ onehost
+msgid "Repeat"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:738
+#@ onehost
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:739
+#@ onehost
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:740
+#@ onehost
+msgid "No Repeat"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:748
+#@ onehost
+msgid "Scroll"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:749
+#@ onehost
+msgid "Fixed"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:795
+#@ onehost
+msgid "Facebook"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:796
+#@ onehost
+msgid "Twitter"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:797
+#@ onehost
+msgid "Google"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:798
+#@ onehost
+msgid "Tumblr"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:799
+#@ onehost
+msgid "Flickr"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:800
+#@ onehost
+msgid "Vimeo"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:801
+#@ onehost
+msgid "Youtube"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:802
+#@ onehost
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:803
+#@ onehost
+msgid "Pinterest"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:804
+#@ onehost
+msgid "Dribbble"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:805
+#@ onehost
+msgid "Behance"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:806
+#@ onehost
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:807
+#@ onehost
+msgid "Spotify"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:808
+#@ onehost
+msgid "GitHub"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:809
+#@ onehost
+msgid "Instagram"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:810
+#@ onehost
+msgid "Picasa"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:811
+#@ onehost
+msgid "Sportify"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:812
+#@ onehost
+msgid "Foursquare"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:813
+#@ onehost
+msgid "Lastfm"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:827
+#@ onehost
+msgid "Remove"
+msgstr ""
+
+#: inc/libs/theme-options/inc/class-fields.php:1016
+#@ onehost
+msgid "Import Opitons"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:29
+#@ onehost
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:34
+#@ onehost
+msgid "TA - Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:37
+#@ onehost
+msgid "Advanced recent posts widget."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:112
+#: inc/widgets/tabs.php:127
+#, php-format
+#@ onehost
+msgid "%s Comments"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:171
+#: inc/widgets/tabs.php:256
+#: inc/widgets/tabs.php:305
+#@ onehost
+msgid "Number Of Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:175
+#@ onehost
+msgid "Select Category: "
+msgstr ""
+
+#: inc/widgets/recent-posts.php:177
+#@ onehost
+msgid "All Categories"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:194
+#: inc/widgets/tabs.php:271
+#: inc/widgets/tabs.php:320
+#@ onehost
+msgid "Show Thumbnail"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:198
+#: inc/widgets/tabs.php:275
+#: inc/widgets/tabs.php:324
+#@ onehost
+msgid "Show Thumbnail Left"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:201
+#: inc/widgets/tabs.php:280
+#: inc/widgets/tabs.php:329
+#@ onehost
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:213
+#: inc/widgets/tabs.php:261
+#: inc/widgets/tabs.php:310
+#@ onehost
+msgid "Show Date"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:218
+#: inc/widgets/tabs.php:266
+#: inc/widgets/tabs.php:315
+#@ onehost
+msgid "Show Comment Number"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:223
+#@ onehost
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:228
+#@ onehost
+msgid "Excerpt Length (words)"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:233
+#@ onehost
+msgid "Show Readmore Text"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:237
+#@ onehost
+msgid "Readmore Text:"
+msgstr ""
+
+#: inc/widgets/tabs.php:20
+#@ onehost
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/tabs.php:28
+#@ onehost
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/tabs.php:42
+#@ onehost
+msgid "TA - Tabs"
+msgstr ""
+
+#: inc/widgets/tabs.php:45
+#@ onehost
+msgid "Display most popular posts, recent posts, recent comments in tabbed widget."
+msgstr ""
+
+#: inc/widgets/tabs.php:120
+#, php-format
+#@ onehost
+msgid "Permalink to %s"
+msgstr ""
+
+#: inc/widgets/tabs.php:181
+#@ onehost
+msgid "by"
+msgstr ""
+
+#: inc/widgets/tabs.php:183
+#@ onehost
+msgid "on"
+msgstr ""
+
+#: inc/widgets/tabs.php:242
+#@ onehost
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/tabs.php:246
+#@ onehost
+msgid "Show Popular Tab"
+msgstr ""
+
+#: inc/widgets/tabs.php:291
+#@ onehost
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/tabs.php:295
+#: inc/widgets/tabs.php:344
+#@ onehost
+msgid "Show Recent Posts Tab"
+msgstr ""
+
+#: inc/widgets/tabs.php:340
+#@ onehost
+msgid "Recent Comments"
+msgstr ""
+
+#: inc/widgets/tabs.php:354
+#@ onehost
+msgid "Number of comments to show"
+msgstr ""
+
+#: parts/content-none.php:13
+#@ onehost
+msgid "Nothing Found"
+msgstr ""
+
+#: parts/content-none.php:19
+#, php-format
+#@ onehost
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: parts/content-none.php:23
+#@ onehost
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: parts/content-none.php:28
+#@ onehost
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: parts/content-page.php:20
+#: parts/content-portfolio.php:17
+#: parts/content-single.php:30
+#@ onehost
+msgid "Pages:"
+msgstr ""
+
+#: parts/content-portfolio.php:42
+#@ onehost
+msgid "Project Description"
+msgstr ""
+
+#: parts/content-portfolio.php:44
+#@ onehost
+msgid "Client:"
+msgstr ""
+
+#: parts/content-portfolio.php:48
+#@ onehost
+msgid "Skills:"
+msgstr ""
+
+#: parts/content-portfolio.php:52
+#@ onehost
+msgid "URL:"
+msgstr ""
+
+#: parts/content-portfolio.php:56
+#@ onehost
+msgid "Category:"
+msgstr ""
+
+#: parts/content-single.php:39
+#: parts/content.php:30
+#@ onehost
+msgid "By:"
+msgstr ""
+
+#: parts/content-single.php:40
+#: parts/content.php:31
+#, php-format
+#@ onehost
+msgid "View all posts by %s"
+msgstr ""
+
+#: parts/content-single.php:52
+#: parts/content.php:43
+#@ onehost
+msgid "0 comment"
+msgstr ""
+
+#: parts/content-single.php:52
+#: parts/content.php:43
+#@ onehost
+msgid "1 comments"
+msgstr ""
+
+#: parts/content-single.php:52
+#: parts/content.php:43
+#@ onehost
+msgid "% comments"
+msgstr ""
+
+#: parts/content-single.php:57
+#: parts/content.php:48
+#@ onehost
+msgid "Read more"
+msgstr ""
+
+#: search.php:16
+#, php-format
+#@ onehost
+msgid "Search Results for: %s"
+msgstr ""
+
+#: vc_templates/vc_button.php:10
+#: vc_templates/vc_button2.php:5
+#@ js_composer
+msgid "Text on the button"
+msgstr ""
+
+#: vc_templates/vc_tab.php:9
+#@ js_composer
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:46
+#@ js_composer
+msgid "Previous tab"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:46
+#@ js_composer
+msgid "Next tab"
+msgstr ""
+

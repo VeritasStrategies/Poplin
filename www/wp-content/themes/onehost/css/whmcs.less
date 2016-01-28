@@ -1,0 +1,344 @@
+.whmcs-widget {
+	.widget {
+		list-style: none;
+
+		&:first-child {
+				margin-top: 15px;
+		}
+
+		.widgettitle {
+			text-transform: uppercase;
+			color: @light;
+			font-size: 14px;
+			font-weight: 700;
+			margin-bottom: 25px;
+			margin-top: 0;
+		}
+
+		p {
+			margin: 20px 0 0;
+		}
+
+		ul li {
+			border-bottom: solid 1px @border-secondary;
+			padding: 8px 0;
+
+			.absmiddle {
+				margin-right: 10px;
+			}
+
+		}
+
+		form {
+			margin-top: 40px;
+		}
+
+		input[type="text"], input[type="password"] {
+			width: 100%;
+			border: solid 1px @border-secondary;
+			background-color: transparent;
+			padding: 5px 10px;
+		}
+
+		input[type="submit"] {
+			.btn();
+
+			&.search-submit {
+				background-color: transparent;
+			}
+		}
+
+
+
+		select[name="searchin"] {
+			margin: 20px 0;
+		}
+	}
+}
+
+#top_menu {
+	background-color: @dark;
+	border: 1px solid @border-secondary;
+}
+
+#bridge {
+	padding-right: 30px;
+	color: @gray-light;
+
+	p.breadcrumb {
+		background-color: @dark;
+		border: 1px solid @border-secondary;
+	}
+	a, a:visited {
+		color: @primary-color;
+		text-decoration: none;
+	}
+
+	table {
+
+		td {
+			padding-bottom: 20px;
+			background-color: transparent;
+			border-color: transparent;
+			a {
+				img {
+					max-width: inherit;
+					margin-right: 20px;
+				}
+			}
+
+			.fieldarea {
+				padding-right: 15px;
+				text-align: right;
+			}
+		}
+	}
+
+	table.frame {
+		border-color: transparent;
+		table td.fieldarea {
+			color: @gray-light;
+		}
+
+		table td, table td.fieldarea {
+			background-color: transparent;
+			border-color: transparent;
+		}
+	}
+
+	#order-modern .product, #domainresults {
+		background-color: transparent;
+		border-color: transparent;
+	}
+
+	#order-modern #categories {
+		background-color: @dark;
+		border: 1px solid @border-secondary;
+
+		a {
+			color: @primary-color;
+
+			&:hover {
+				color: @secondary-color;
+			}
+		}
+	}
+
+	table, table.cart, table.data, table.configtable {
+		background-color: transparent !important;
+		caption {
+			border: 1px solid @border-secondary;
+			border-bottom-width: 0;
+			text-align: center;
+		}
+
+		tr {
+			border: 1px solid @border-secondary !important;
+			padding: 3px 0;
+
+			td,
+			th {
+				background-color: transparent;
+				padding: 5px 5px;
+				border: none !important;
+				border-bottom: 1px solid @border-secondary !important;
+				border-left: 1px solid @border-secondary !important;
+				color: @gray-light;
+			}
+
+			&.total {
+				td {
+					color: @primary-color;
+					background-color: transparent;
+				}
+
+				&:hover {
+					td {
+						background-color: transparent;
+					}
+				}
+			}
+
+			&.subtotal {
+				td {
+					background-color: transparent;
+					border-color: @border-secondary;
+				}
+
+				&:hover {
+					td {
+						background-color: transparent;
+					}
+				}
+			}
+
+			&:hover {
+				td {
+					background-color: transparent;
+				}
+			}
+		}
+	}
+
+	table.frame tbody{
+		& > tr {
+			border:  none !important;
+
+			& > td, & > tr {
+				border:  none !important;
+			}
+		}
+	}
+
+	.clientareatableactive {
+		background-color: transparent;
+	}
+
+	#order-modern .cartbuttons {
+		margin: 0;
+		padding: 10px 50px 0 0;
+		text-align: right;
+		width: 100%;
+	}
+
+	#order-modern .cartwarningbox {
+		background-color: #fcf8e3;
+		border: 1px solid #faebcc;
+		color: #8a6d3b;
+	}
+
+	#order-modern #domainconfig {
+		border: solid 1px @border-secondary;
+		margin-bottom: 15px;
+	}
+
+	input[type="text"], input[type="password"], textarea {
+		border: solid 1px @border-secondary;
+		background-color: transparent;
+		padding: 5px 10px;
+	}
+
+	input[type="submit"], input[type="button"] {
+		.btn();
+	}
+
+	input[type="reset"] {
+		.btn-secondary();
+	}
+
+	.errorbox {
+		color: #a94442;
+		background-color: #f2dede;
+		padding: 10px 20px;
+		margin: 0 0 10px;
+		text-align: left;
+		border: none;
+		width: 100%;
+	}
+
+	select {
+		background-color: transparent;
+		border-color: @border-secondary;
+		height: 30px;
+		line-height: 30px;
+		color: @gray-light;
+
+		option {
+			color: @gray;
+		}
+	}
+
+	#languagefrm {
+		select {
+			margin-left: 10px;
+		}
+	}
+
+	#pwstrengthneg {
+		background-color: transparent !important;
+		border-color: @border-secondary !important;
+	}
+
+	#pwstrengthneg, #pwstrengthpos {
+		border-color: @border-secondary !important;
+	}
+
+	#order-modern table.cart tr.recurring td {
+		background-color: transparent;
+		border-color: @border-secondary;
+	}
+
+	#order-modern .signuptype {
+		border-color: @border-secondary;
+		color: @gray;
+	}
+
+	#order-modern .signuptype.active {
+		background-color: @dark;
+		color: @gray;
+	}
+
+	#order-modern .signupfields {
+		border-color: @border-secondary;
+	}
+
+	#order-modern #signupfrm, #order-modern #domaincontactfields {
+		border-color: transparent;
+	}
+
+	#invoicetoptables, #invoiceitemstable{
+		tr {
+			background-color: transparent !important;
+		}
+	}
+}
+
+.page-template-template-whmcs-php {
+    .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+        width: 1170px;
+
+        .container {
+            width: 100%;
+        }
+    }
+
+    #bridge  .whmcscontainer {
+        color: #333;
+        h1, h2 {
+            color: #333;
+        }
+
+        input[type="submit"],
+        input[type="button"] {
+            color: #333;
+
+            &:hover {
+                background-color: transparent;
+            }
+        }
+
+        table, table.cart, table.data, table.configtable {
+
+            tr {
+
+                td,
+                th {
+                    color: #333;
+                }
+
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 959px)  {
+    .page-template-template-whmcs-php {
+        .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+            width: 100%;
+        }
+
+        .navbar .navbar-inner {
+            width: 100%;
+        }
+    }
+}

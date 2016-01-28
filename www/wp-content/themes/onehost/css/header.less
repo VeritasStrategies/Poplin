@@ -1,0 +1,87 @@
+.site-header {
+	transition: 0.4s top ease-in;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	border-bottom: 1px solid #2b2b2b;
+	background-color: rgba(red(@gray-dark), green(@gray-dark), blue(@gray-dark), 0.9);
+	z-index: 999;
+}
+
+.admin-bar .site-header {
+	top: 32px;
+}
+
+.page-template-one-page-php {
+	.site-header {
+		top: -100px;
+		z-index: -999;
+		&.minimized {
+			top: 0;
+			z-index: 999;
+		}
+	}
+
+	&.admin-bar .site-header.minimized {
+		top: 32px;
+	}
+}
+
+#scroll-top {
+	opacity: 0;
+	transition: 0.4s all ease-in;
+
+	&.show-scroll {
+		opacity: 1;
+	}
+}
+
+
+.site-branding {
+	float: left;
+
+	.logo {
+		height: 70px;
+		display: table-cell;
+		vertical-align: middle;
+	}
+}
+
+.site-title,
+.site-description {
+	display: block;
+	margin: 0;
+	width: 0;
+	height: 0;
+	text-indent: -99999px;
+}
+
+.navbar-toggle {
+	color: @light;
+	position: relative;
+	float: right;
+	font-size: 30px;
+	line-height: 1;
+	margin: 0;
+	padding: 0;
+	line-height: 70px;
+
+	&:hover {
+		color: @primary-color;
+	}
+}
+
+.title-area {
+	text-align: center;
+	padding: 90px 0;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+	h1 {
+		color: @light;
+		font-weight: 700;
+		text-transform: uppercase;
+		margin: 60px 0 0 0;
+	}
+}

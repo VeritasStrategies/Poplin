@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TA Portfolio Management v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-07 09:19:51+0000\n"
+"Last-Translator: ThemeAlien <support@themealien.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/class-portfolio.php:44
+#@ ta-portfolio
+msgctxt "Post Type General Name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/class-portfolio.php:45
+#@ ta-portfolio
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/class-portfolio.php:46
+#@ ta-portfolio
+msgid "Portfolios"
+msgstr ""
+
+#: inc/class-portfolio.php:47
+#@ ta-portfolio
+msgid "Parent Portfolio"
+msgstr ""
+
+#: inc/class-portfolio.php:48
+#@ ta-portfolio
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/class-portfolio.php:49
+#@ ta-portfolio
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/class-portfolio.php:50
+#@ ta-portfolio
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/class-portfolio.php:51
+#: inc/class-showcase.php:48
+#@ ta-portfolio
+msgid "Add New"
+msgstr ""
+
+#: inc/class-portfolio.php:52
+#@ ta-portfolio
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/class-portfolio.php:53
+#@ ta-portfolio
+msgid "Update Portfolio"
+msgstr ""
+
+#: inc/class-portfolio.php:54
+#@ ta-portfolio
+msgid "Search Portfolio"
+msgstr ""
+
+#: inc/class-portfolio.php:55
+#: inc/class-showcase.php:52
+#@ ta-portfolio
+msgid "Not found"
+msgstr ""
+
+#: inc/class-portfolio.php:56
+#: inc/class-showcase.php:53
+#@ ta-portfolio
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/class-portfolio.php:59
+#@ ta-portfolio
+msgid "Portfolio"
+msgstr ""
+
+#: inc/class-portfolio.php:60
+#@ ta-portfolio
+msgid "Create and manage all works"
+msgstr ""
+
+#: inc/class-portfolio.php:90
+#: inc/class-portfolio.php:100
+#@ ta-portfolio
+msgid "Categories"
+msgstr ""
+
+#: inc/class-portfolio.php:91
+#@ ta-portfolio
+msgid "Category"
+msgstr ""
+
+#: inc/class-portfolio.php:92
+#@ ta-portfolio
+msgid "Search Categories"
+msgstr ""
+
+#: inc/class-portfolio.php:93
+#@ ta-portfolio
+msgid "All Categories"
+msgstr ""
+
+#: inc/class-portfolio.php:94
+#@ ta-portfolio
+msgid "Parent Category"
+msgstr ""
+
+#: inc/class-portfolio.php:95
+#@ ta-portfolio
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/class-portfolio.php:96
+#@ ta-portfolio
+msgid "Edit Category"
+msgstr ""
+
+#: inc/class-portfolio.php:97
+#@ ta-portfolio
+msgid "Update Category"
+msgstr ""
+
+#: inc/class-portfolio.php:98
+#@ ta-portfolio
+msgid "Add New Category"
+msgstr ""
+
+#: inc/class-portfolio.php:99
+#@ ta-portfolio
+msgid "New Category Name"
+msgstr ""
+
+#: inc/class-portfolio.php:130
+#@ ta-portfolio
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/class-portfolio.php:159
+#@ ta-portfolio
+msgid "Portfolio Details"
+msgstr ""
+
+#: inc/class-portfolio.php:182
+#: inc/frontend.php:213
+#@ ta-portfolio
+msgid "Project URL"
+msgstr ""
+
+#: inc/class-showcase.php:41
+#@ ta-portfolio
+msgctxt "Post Type General Name"
+msgid "Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:42
+#@ ta-portfolio
+msgctxt "Post Type Singular Name"
+msgid "Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:43
+#: inc/class-showcase.php:56
+#@ ta-portfolio
+msgid "Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:44
+#@ ta-portfolio
+msgid "Parent Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:45
+#@ ta-portfolio
+msgid "Showcases"
+msgstr ""
+
+#: inc/class-showcase.php:46
+#@ ta-portfolio
+msgid "View Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:47
+#@ ta-portfolio
+msgid "Add New Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:49
+#@ ta-portfolio
+msgid "Edit Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:50
+#@ ta-portfolio
+msgid "Update Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:51
+#@ ta-portfolio
+msgid "Search Showcase"
+msgstr ""
+
+#: inc/class-showcase.php:57
+#@ ta-portfolio
+msgid "Create showcase shortcode"
+msgstr ""
+
+#: inc/class-showcase.php:87
+#: inc/class-showcase.php:117
+#@ ta-portfolio
+msgid "Shortcode"
+msgstr ""
+
+#: inc/class-showcase.php:143
+#@ ta-portfolio
+msgid "Category to display"
+msgstr ""
+
+#: inc/class-showcase.php:161
+#@ ta-portfolio
+msgid "Number of portfolio"
+msgstr ""
+
+#: inc/class-showcase.php:172
+#@ ta-portfolio
+msgid "Showcase Layout"
+msgstr ""
+
+#: inc/class-showcase.php:175
+#@ ta-portfolio
+msgid "Grid"
+msgstr ""
+
+#: inc/class-showcase.php:176
+#@ ta-portfolio
+msgid "Masonry"
+msgstr ""
+
+#: inc/class-showcase.php:183
+#@ ta-portfolio
+msgid "Spacing"
+msgstr ""
+
+#: inc/class-showcase.php:188
+#@ ta-portfolio
+msgid "This is spacing between portfolios"
+msgstr ""
+
+#: inc/class-showcase.php:194
+#@ ta-portfolio
+msgid "Enable Filter"
+msgstr ""
+
+#: inc/class-showcase.php:199
+#@ ta-portfolio
+msgid "Enable this feature to show the filter by category on top of portfolio showcase"
+msgstr ""
+
+#: inc/class-showcase.php:205
+#@ ta-portfolio
+msgid "Enable Pagination"
+msgstr ""
+
+#: inc/class-showcase.php:211
+#@ ta-portfolio
+msgid "Enable this feature to show the pagination at the bottom of portfolio showcase"
+msgstr ""
+
+#: inc/class-showcase.php:234
+#@ ta-portfolio
+msgid "Copy and paste this shortcode to any page you want to display portfolio showcase."
+msgstr ""
+
+#: inc/frontend.php:238
+#@ ta-portfolio
+msgid "Category: "
+msgstr ""
+
+#: inc/shortcodes.php:74
+#@ ta-portfolio
+msgid "View all items"
+msgstr ""
+
+#: inc/shortcodes.php:75
+#@ ta-portfolio
+msgid "All"
+msgstr ""
+
+#: inc/shortcodes.php:117
+#@ ta-portfolio
+msgid "View Detail"
+msgstr ""
+
+#: inc/shortcodes.php:139
+#@ ta-portfolio
+msgid "« Previous"
+msgstr ""
+
+#: inc/shortcodes.php:140
+#@ ta-portfolio
+msgid "Next »"
+msgstr ""
+
+#: inc/class-showcase.php:166
+#@ ta-portfolio
+msgid "With Metro layout, the value for the best view is 5, 6, 8 or a multiple of 8, eg: 8, 16, 24..."
+msgstr ""
+
+#: inc/class-showcase.php:177
+#@ ta-portfolio
+msgid "Metro"
+msgstr ""
+
+#: inc/shortcodes.php:87
+#@ ta-portfolio
+msgid "View all items under"
+msgstr ""
+
+#: inc/class-portfolio.php:177
+#: inc/frontend.php:208
+#@ ta-portfolio
+msgid "Project Client"
+msgstr ""
+
+#: inc/class-showcase.php:116
+#@ ta-portfolio
+msgid "Showcase Options"
+msgstr ""
+

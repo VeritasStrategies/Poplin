@@ -1,0 +1,394 @@
+/* Single Team Member
+----------------------------------------------------------*/
+.single-team_member .member-image img {
+  width: 100%;
+  height: auto;
+}
+.single-team_member .member-info .member-name {
+  margin: 0;
+}
+.single-team_member .member-info .job-title {
+  margin: 0 0 30px 0;
+}
+.single-team_member .member-info .member-group,
+.single-team_member .member-info .member-socials {
+  margin: 0 0 10px;
+}
+.single-team_member .member-info .member-socials a {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+  width: 32px;
+  height: 32px;
+  margin-right: 5px;
+  text-align: center;
+  line-height: 32px;
+  color: #333;
+  border: 1px solid #333;
+}
+.single-team_member .member-info .member-bio {
+  margin: 30px 0 0;
+}
+/* TA Team Shortcode
+----------------------------------------------------------*/
+.ta-team-shortcode .team-member-image {
+  margin-bottom: 30px;
+  overflow: hidden;
+  position: relative;
+}
+.ta-team-shortcode .team-member-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.ta-team-shortcode .team-member-image .view-member-detail {
+  transition: all 0.4s;
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  width: 30px;
+  height: 30px;
+  margin-left: -15px;
+  margin-top: -15px;
+  font-size: 30px;
+  color: #fff;
+}
+.ta-team-shortcode .team-member-image .team-member-socials {
+  transition: all 0.4s;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+}
+.ta-team-shortcode .team-member-image .team-member-socials a {
+  color: #fff;
+  border-color: #fff;
+}
+.ta-team-shortcode .team-member-image .team-member-info {
+  transition: all 0.5s ease 0.1s;
+  position: absolute;
+  bottom: -100%;
+  left: 0;
+  width: 100%;
+  padding-bottom: 15px;
+}
+.ta-team-shortcode .team-member-image .team-member-job {
+  color: #fff;
+}
+.ta-team-shortcode .team-member-image:before {
+  transition: all 0.3s;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  content: "";
+  opacity: 0;
+  background: rgba(0, 0, 0, 0.4);
+}
+.ta-team-shortcode .team_member:hover .team-member-image:before {
+  opacity: 1;
+}
+.ta-team-shortcode .team_member:hover .team-member-image .view-member-detail {
+  top: 50%;
+}
+.ta-team-shortcode .team_member:hover .team-member-image .team-member-socials {
+  top: 35%;
+}
+.ta-team-shortcode .team_member:hover .team-member-image .team-member-info {
+  bottom: 15px;
+}
+.ta-team-shortcode .team-member-name {
+  margin: 0;
+}
+.ta-team-shortcode .team-member-job {
+  color: #666;
+}
+.ta-team-shortcode .team-member-bio {
+  margin: 30px 0;
+}
+.ta-team-shortcode .team-member-address {
+  margin-top: 30px;
+}
+.ta-team-shortcode .team-member-socials {
+  margin: 30px 0 0 0;
+}
+.ta-team-shortcode .team-member-socials a {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  transition: all 0.3s;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+  width: 32px;
+  height: 32px;
+  margin: 3px;
+  text-align: center;
+  line-height: 32px;
+  color: #333;
+  border: 1px solid #ccc;
+}
+.ta-team-shortcode .team-member-socials a:hover {
+  color: #fff;
+  border-color: transparent;
+}
+.ta-team-shortcode .team-member-socials .fa-facebook:hover {
+  background-color: #48649f;
+}
+.ta-team-shortcode .team-member-socials .fa-twitter:hover {
+  background-color: #55acee;
+}
+.ta-team-shortcode .team-member-socials .fa-google-plus:hover {
+  background-color: #d73d32;
+}
+.ta-team-shortcode .team-member-socials .fa-flickr:hover {
+  background-color: #fa3095;
+}
+.ta-team-shortcode .team-member-socials .fa-vimeo-square:hover {
+  background-color: #4dbaff;
+}
+.ta-team-shortcode .team-member-socials .fa-linkedin:hover {
+  background-color: #177eb5;
+}
+.ta-team-shortcode .team-member-socials .fa-youtube:hover {
+  background-color: #c83426;
+}
+.ta-team-shortcode .team-member-socials .fa-dribbble:hover {
+  background-color: #e44d8b;
+}
+.ta-team-shortcode .team-member-socials .fa-behance:hover {
+  background-color: #2d9ad2;
+}
+.ta-team-shortcode.style-round .team-member-image:before,
+.ta-team-shortcode.style-round .team-member-image img {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+.ta-team-shortcode.style-square .team-member-image,
+.ta-team-shortcode.style-square .team-member-image:before {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.ta-team-shortcode.align-left .team-member-image .team-member-socials,
+.ta-team-shortcode.align-right .team-member-image .team-member-socials,
+.ta-team-shortcode.align-left .team-member-image .team-member-info,
+.ta-team-shortcode.align-right .team-member-image .team-member-info {
+  padding: 15px;
+}
+.ta-team-shortcode.align-left .team-member-image .team-member-info .team-member-socials,
+.ta-team-shortcode.align-right .team-member-image .team-member-info .team-member-socials {
+  padding: 0;
+}
+.ta-team-shortcode.align-left {
+  text-align: left;
+}
+.ta-team-shortcode.align-left .team-member-socials {
+  margin-left: -3px;
+}
+.ta-team-shortcode.align-center {
+  text-align: center;
+}
+.ta-team-shortcode.align-right {
+  text-align: right;
+}
+.ta-team-shortcode.align-right .team-member-socials {
+  margin-right: -3px;
+}
+.ta-team-shortcode.hover-info-socials .team-member-image .team-member-socials {
+  position: relative;
+}
+.ta-team-shortcode.hover-info-socials .team-member-image .team-member-info {
+  transition: all 0.4s;
+}
+.ta-team-shortcode.hover-info-socials.align-left .team-member-image:hover .team-member-info,
+.ta-team-shortcode.hover-info-socials.align-right .team-member-image:hover .team-member-info {
+  bottom: 0;
+}
+.ta-team-shortcode.ta-team-grid-2.align-left .team-member-image,
+.ta-team-shortcode.ta-team-grid-1.align-left .team-member-image {
+  width: 50%;
+  padding-right: 15px;
+  float: left;
+}
+.ta-team-shortcode.ta-team-grid-2.align-left .team-member-image:before,
+.ta-team-shortcode.ta-team-grid-1.align-left .team-member-image:before {
+  right: 15px;
+}
+.ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-name,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-name,
+.ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-job,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-job,
+.ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-bio,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-bio,
+.ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-address,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-address,
+.ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-phone,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-phone,
+.ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-socials,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-socials {
+  margin-left: 50%;
+  padding-left: 15px;
+}
+.ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-socials,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-socials {
+  padding-left: 12px;
+}
+.ta-team-shortcode.ta-team-grid-2.align-right .team-member-image,
+.ta-team-shortcode.ta-team-grid-1.align-right .team-member-image {
+  width: 50%;
+  float: right;
+  padding-left: 15px;
+}
+.ta-team-shortcode.ta-team-grid-2.align-right .team-member-image:before,
+.ta-team-shortcode.ta-team-grid-1.align-right .team-member-image:before {
+  left: 15px;
+}
+.ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-name,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-name,
+.ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-job,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-job,
+.ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-bio,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-bio,
+.ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-address,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-address,
+.ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-phone,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-phone,
+.ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-socials,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-socials {
+  margin-right: 50%;
+  padding-right: 15px;
+}
+.ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-socials,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-socials {
+  padding-right: 12px;
+}
+.ta-team-shortcode.ta-team-grid-2.align-center .team_member,
+.ta-team-shortcode.ta-team-grid-1.align-center .team_member {
+  margin-bottom: 30px;
+}
+.ta-team-shortcode.ta-team-grid-2.align-center .team-member-image,
+.ta-team-shortcode.ta-team-grid-1.align-center .team-member-image {
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ta-team-shortcode.ta-team-grid-1.align-left .team-member-image,
+.ta-team-shortcode.ta-team-grid-1.align-right .team-member-image {
+  width: 300px;
+  height: 300px;
+  padding: 0;
+}
+.ta-team-shortcode.ta-team-grid-1.align-left .team-member-image:before,
+.ta-team-shortcode.ta-team-grid-1.align-right .team-member-image:before {
+  left: 0;
+  right: 0;
+}
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-name,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-job,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-bio,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-address,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-phone,
+.ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-socials {
+  margin-left: 315px;
+}
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-name,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-job,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-bio,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-address,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-phone,
+.ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-socials {
+  margin-right: 315px;
+}
+/* Responsive
+----------------------------------------------------------*/
+@media screen and (max-width: 991px) {
+  .ta-team-shortcode.ta-team-grid-2.align-left .team-member-image,
+  .ta-team-shortcode.ta-team-grid-2.align-right .team-member-image,
+  .ta-team-shortcode.ta-team-grid-2.align-center .team-member-image {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    float: none;
+  }
+  .ta-team-shortcode.ta-team-grid-2.align-left .team-member-image:before,
+  .ta-team-shortcode.ta-team-grid-2.align-right .team-member-image:before,
+  .ta-team-shortcode.ta-team-grid-2.align-center .team-member-image:before {
+    left: 0;
+    right: 0;
+  }
+  .ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-name,
+  .ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-name,
+  .ta-team-shortcode.ta-team-grid-2.align-center .team_member > .team-member-name,
+  .ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-job,
+  .ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-job,
+  .ta-team-shortcode.ta-team-grid-2.align-center .team_member > .team-member-job,
+  .ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-bio,
+  .ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-bio,
+  .ta-team-shortcode.ta-team-grid-2.align-center .team_member > .team-member-bio,
+  .ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-address,
+  .ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-address,
+  .ta-team-shortcode.ta-team-grid-2.align-center .team_member > .team-member-address,
+  .ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-phone,
+  .ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-phone,
+  .ta-team-shortcode.ta-team-grid-2.align-center .team_member > .team-member-phone,
+  .ta-team-shortcode.ta-team-grid-2.align-left .team_member > .team-member-socials,
+  .ta-team-shortcode.ta-team-grid-2.align-right .team_member > .team-member-socials,
+  .ta-team-shortcode.ta-team-grid-2.align-center .team_member > .team-member-socials {
+    margin-right: 0;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .ta-team-shortcode .team_member {
+    margin-bottom: 30px;
+  }
+}
+@media screen and (max-width: 599px) {
+  .ta-team-shortcode.ta-team-grid-1.align-left .team-member-image,
+  .ta-team-shortcode.ta-team-grid-1.align-right .team-member-image,
+  .ta-team-shortcode.ta-team-grid-1.align-center .team-member-image {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    float: none;
+  }
+  .ta-team-shortcode.ta-team-grid-1.align-left .team-member-image:before,
+  .ta-team-shortcode.ta-team-grid-1.align-right .team-member-image:before,
+  .ta-team-shortcode.ta-team-grid-1.align-center .team-member-image:before {
+    left: 0;
+    right: 0;
+  }
+  .ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-name,
+  .ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-name,
+  .ta-team-shortcode.ta-team-grid-1.align-center .team_member > .team-member-name,
+  .ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-job,
+  .ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-job,
+  .ta-team-shortcode.ta-team-grid-1.align-center .team_member > .team-member-job,
+  .ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-bio,
+  .ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-bio,
+  .ta-team-shortcode.ta-team-grid-1.align-center .team_member > .team-member-bio,
+  .ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-address,
+  .ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-address,
+  .ta-team-shortcode.ta-team-grid-1.align-center .team_member > .team-member-address,
+  .ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-phone,
+  .ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-phone,
+  .ta-team-shortcode.ta-team-grid-1.align-center .team_member > .team-member-phone,
+  .ta-team-shortcode.ta-team-grid-1.align-left .team_member > .team-member-socials,
+  .ta-team-shortcode.ta-team-grid-1.align-right .team_member > .team-member-socials,
+  .ta-team-shortcode.ta-team-grid-1.align-center .team_member > .team-member-socials {
+    margin-right: 0;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
